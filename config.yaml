@@ -1,5 +1,5 @@
 title: Awesome Hugo blog
-baseURL: https://csusalaries1.netlify.app
+baseURL: "https://csusalaries1.netlify.app/"
 languageCode: en-us
 theme: hugo-blog-awesome
 defaultContentLanguage: en-gb
